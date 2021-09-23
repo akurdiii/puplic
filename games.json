@@ -76,14 +76,7 @@
             "rating": 4,
             "game_url": "https://play.famobi.com/adventure-drivers"
           },
- {
-            "category_name": "Racing",
-            "category_id": 1,
-            "name": "aaaaa",
-            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AdventureDriversTeaser.jpg?v=0.2-89acc7bc",
-            "rating": 4,
-            "game_url": "https://play.famobi.com/adventure-drivers"
-          },
+
           {
             "category_name": "Racing",
             "category_id": 1,
